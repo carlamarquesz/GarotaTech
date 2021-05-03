@@ -1,0 +1,82 @@
+/*Estilo para tablets*/
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	
+	.body{
+		overflow-x: hidden;
+	}
+	
+	
+	.accordion {
+		position: relative;
+		right: 150px;
+		width: 150%;
+		
+	}
+
+	.panel{
+		position: relative;
+		right: 150px;
+		width: 150%;
+	}
+
+	
+	
+	
+	
+}
+
+/*Estilo para smartphone*/
+@media only screen and (max-width: 767px) {
+
+	.introducao {
+		
+		padding-top: 45px;
+		
+	}
+	
+	.intro-img{
+		width: 120%;
+		float: left;
+		margin-top:70px;
+		position: relative;
+		right: 20px;
+		
+		
+	}
+	
+	
+	
+	
+
+	
+	
+	.accordion {
+		position: relative;
+		right: 270px;
+		width: 150%;
+		
+	}
+
+	.panel{
+		position: relative;
+		right: 270px;
+		width: 150%;
+	}
+
+	
+
+	.footer-lista h3{
+		padding-top: 30px;
+
+	}
+	
+	
+	
+}
+
+@media only screen and  (min-width: 960px) and (max-width: 1150px) {
+	
+	
+	
+		
+}

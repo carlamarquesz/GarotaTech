@@ -1,35 +1,37 @@
-Template utilizado para avalização de code review na Hack GRRRL 2021 ✨👩‍💻✨
+## Template utilizado para avalização de code review na Hack GRRRL 2021 ✨👩‍💻✨
 
+<br />
 
-1) Objetivo e Motivações
+> Objetivo e Motivações
 
-  Queríamos aumentar cada vez mais a participação das garotas no mundo da tecnologia, de uma forma mais simples e com poucos cliques, que reunisse no nosso web site diversos     conteúdos e eventos na área de tecnologia (eventos,cursos,lives,vagas de empregos etc) voltados exclusivamente para mulheres, tendo como um diferencial a existência de comentários positivos/negativos das nossas usuárias e assim tornar o ambiente mais acolhedor e amigável.
+  *A equipe queria aumentar cada vez mais a participação das garotas no mundo da tecnologia de uma forma simples e com poucos cliques, que reunisse no nosso web site diversos       conteúdos e eventos na área de tecnologia (eventos,cursos,lives,vagas de empregos etc) voltados exclusivamente para mulheres, tendo como um diferencial a existência de       comentários positivos/negativos das nossas usuárias e assim tornar o ambiente mais acolhedor e amigável.*
+<br />
+<br />
+> Que tecnologias vocês usaram no hackathon?
 
+  *Html, CSS e JS*
+<br />
+<br />
+> Por que vocês escolheram essas tecnologias?
 
-2) Que tecnologias vocês usaram no hackathon?
+  *Limitação no conhecimento de novas tecnologias* 
+<br />
+<br />
+> Qual foi a maior desafio (da parte de desenvolvimento) durante o hackathon? Como vocês resolveram?
 
-  Carla - Html, CSS e JS
+  *Responsividade e o Back-END.*
+<br />
+<br />
+> Qual foi o maior aprendizado (ou uma parte do código que vocês achem massa e estão orgulhosas)?
 
+  *O Layout bacana, o Trabalho em equipe e motivação do grupo apesar de não ter ficado completo.*
+<br />
+<br />
+> Se vocês fossem participar de um hackathon semana que vem, fariam algo de diferente com relação às escolhas das tecnologias utilizadas?
+  
+  *Estudar frameworks como o react para algo mais satisfatório.*
+  <br />
+  <br />
+  
 
-
-3) Por que vocês escolheram essas tecnologias?
-
-  Carla - Sou inciante na área e basicamente é as únicas que conheço e tenho facilidade de aplicar no momento. 
-
-
-
-4) Qual foi a maior desafio (da parte de desenvolvimento) durante o hackathon? Como vocês resolveram?
-
-  Carla- A responsividade, que não consegui resolver. Ainda me sinto muito limitada.
-
-
-
-5) Qual foi o maior aprendizado (ou uma parte do código que vocês achem massa e estão orgulhosas)?
-
-  Carla- O Trabalho em equipe, a motivação das minhas colegas de grupo que por mais que eu esteja para baixo e apresentar diversos bugs, me mostraram que eu deveria me divertir e que era normal errar. E com muita paciência (respirei fundo) conseguir também resolver alguns bugs. Gostei como o Layout ficou, ta bacana.
-
-
-
-6) Se vocês fossem participar de um hackathon semana que vem, fariam algo de diferente com relação às escolhas das tecnologias utilizadas?
-
-  Carla - Eu iria estudar mais, pois eu sinto que se eu usasse frameworks como o react, eu teria feito algo mil vezes melhor. Mas estou satisfeita com o que conseguir fazer. Obrigada Hack GRRRL!
+#### Agradecemos ao HACKGRRRL pelo evento maravilhoso! :smiling_face_with_three_hearts:
